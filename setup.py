@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='AtlonaControl',
-    version='0.8',
+    version='0.9',
     license='MIT',
     author="sdoDevelop",
     author_email='sdoconnell92@gmail.com',
