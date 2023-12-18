@@ -2,7 +2,7 @@ from atlonaControl import atlonaControl
 
 
 if __name__ == '__main__':
-    atlona = atlonaControl("10.74.100.30")
+    atlona = atlonaControl("10.74.12.157")
     blink = atlona.getBlink()
     broadcast = atlona.getBroadcast()
     # EDIDM = atlona.getEDIDM(3)
